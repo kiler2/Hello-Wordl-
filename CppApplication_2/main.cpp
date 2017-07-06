@@ -20,11 +20,10 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout<< "Hello Wordl!!!"<<endl;
-    cout<< "This my first project in C++ in my life!!!"<<endl;
-    cout<< "I am verry smail what I can programing in C++!!!"<<endl;
-    cout<< "I work in a office on a Computer!!!"<<endl;
     for(int i = 0; i<=10;i++)
+    {
         cout<<i*i*i<<endl;
-    
+        cout<<i+i*i<<endl;
+    }
     return 0;
 }
