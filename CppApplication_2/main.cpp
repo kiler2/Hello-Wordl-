@@ -21,5 +21,6 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<< "Hello Wordl!!!"<<endl;
     cout<< "This my first project in C++ in my life!!!"<<endl;
+    cout<< "I am verry smail what I can programing in C++!!!"<<endl;
     return 0;
 }
